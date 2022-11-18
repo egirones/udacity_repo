@@ -10,3 +10,6 @@ Some basic git commands
 * git clean
 * git add
 * git commit
+* git branch -d
+* git checkour -b
+
